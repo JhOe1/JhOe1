@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jhoe! <br/><a href="https://www.linkedin.com/in/joseph-igah/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jhoe! <br/><a href="https://www.linkedin.com/in/joseph-igah/">Cybersecurity Analyst</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
