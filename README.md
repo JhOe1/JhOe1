@@ -8,9 +8,11 @@
 <h2> 📄 Certifications:</h2>
 
 
-  - [Comptia Security Plus](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
 
-  - [Google Cybersecurity Pofessional](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Microsoft Security Compliance and Identity Fundamentals (SC-900) ](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Qualys Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2> 🤳 Connect with me:</h2>
