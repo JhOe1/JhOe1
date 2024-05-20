@@ -8,11 +8,11 @@
 <h2> 📄 Certifications:</h2>
 
 
-  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CompTIA Security+]
 
-  - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Microsoft Security Compliance and Identity Fundamentals (SC-900) ](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Qualys Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google Cybersecurity Professional Certificate]
+ - [Microsoft Security Compliance and Identity Fundamentals (SC-900) ](https://www.credly.com/badges/970bb0ac-2d14-4c23-978f-595dcfb2b08a/public_url)
+- [Qualys Vulnerability Management]
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -25,17 +25,3 @@
 
 [linkedin]: https://linkedin.com/in/joseph-igah
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
