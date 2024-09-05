@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Cybersecurity 30 days project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
 
 
 <h2> 📄 Certifications:</h2>
