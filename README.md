@@ -9,8 +9,8 @@
 
 
   - [CompTIA Security+]
-
-  
+ 
+   - [Certified in Cybersecurity (CC)]
  - [Microsoft Security Compliance and Identity Fundamentals (SC-900) ](https://www.credly.com/badges/970bb0ac-2d14-4c23-978f-595dcfb2b08a/public_url)
 - [Qualys Vulnerability Management](https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_8590f369-107e-44f5-9dda-c35dc34417a6.pdf)
 
