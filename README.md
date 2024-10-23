@@ -18,7 +18,7 @@
  
   - [Creating a Hoenypot](https://github.com/JhOe1/Cyber-security-30-days-project.git)
   
-  - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Installing OPNsense firewall](https://github.com/JhOe1/Cyber-security-30-days-project.git)
 
 
 <h2> 📄 Certifications:</h2>
