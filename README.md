@@ -8,13 +8,13 @@
    
   - [Network Traffic Analysis with Wireshark](https://github.com/JhOe1/Cyber-security-30-days-project.git)
        
-  - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Wazuh Vulnerability Detection Module Implementation](https://github.com/JhOe1/Cyber-security-30-days-project.git)
    
-  - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Nessus Tenable Vulnerability Assessment Project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
 
-  - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Wazuh and VirusTotal integration project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
 
-  - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Suricata intrusion detection project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
  
   - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
   
