@@ -4,7 +4,7 @@
 
   - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
 
-  - [Wazuh Deployment with File Integrity Monitoring (FIM) Implementation](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Wazuh Deployment with File Integrity Monitoring (FIM) Implementation](https://github.com/JhOe1/Wazuh-Deployment-with-File-Integrity-Monitoring-FIM-Implementation))
    
   - [Network Traffic Analysis with Wireshark](https://github.com/JhOe1/Cyber-security-30-days-project.git)
        
