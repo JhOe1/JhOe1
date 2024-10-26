@@ -6,19 +6,19 @@
 
   - [Wazuh Deployment with File Integrity Monitoring (FIM) Implementation](https://github.com/JhOe1/Wazuh-Deployment-with-File-Integrity-Monitoring-FIM-Implementation))
    
-  - [Network Traffic Analysis with Wireshark](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Network Traffic Analysis with Wireshark](https://github.com/JhOe1/Network-Traffic-Analysis-with-Wireshark)
        
-  - [Wazuh Vulnerability Detection Module Implementation](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Wazuh Vulnerability Detection Module Implementation](https://github.com/JhOe1/Wazuh-Vulnerability-Detection-Module-Implementation)
    
-  - [Nessus Tenable Vulnerability Assessment Project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Nessus Tenable Vulnerability Assessment Project](https://github.com/JhOe1/Nessus-Tenable-Vulnerability-Assessment-Project)
 
-  - [Wazuh and VirusTotal integration project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Wazuh and VirusTotal integration project](https://github.com/JhOe1/Wazuh-and-VirusTotal-integration-project)
 
-  - [Suricata intrusion detection project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Suricata intrusion detection project](https://github.com/JhOe1/Suricata-intrusion-detection-project)
  
-  - [Creating a Hoenypot](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Creating a Hoenypot](https://github.com/JhOe1/Creating-a-Hoenypot)
   
-  - [Installing OPNsense firewall](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Installing OPNsense firewall](https://github.com/JhOe1/Installing-OPNsense-firewall)
 
 
 <h2> 📄 Certifications:</h2>
