@@ -3,6 +3,7 @@
 
 
   - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
+  - [Phishing Simulation Attack with GoPhish](https://github.com/JhOe1/Cyber-security-30-days-project.git)
 
   - [Wazuh Deployment with File Integrity Monitoring (FIM) Implementation](https://github.com/JhOe1/Wazuh-Deployment-with-File-Integrity-Monitoring-FIM-Implementation))
    
