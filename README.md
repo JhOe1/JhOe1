@@ -15,7 +15,7 @@
 
   - [Wazuh and VirusTotal integration project](https://github.com/JhOe1/Wazuh-and-VirusTotal-integration-project)
 
-  - [Suricata intrusion detection project](https://github.com/JhOe1/Suricata-intrusion-detection-project)
+  - [Suricata Intrusion Detection Project](https://github.com/JhOe1/Suricata-intrusion-detection-project)
  
   - [Creating a Hoenypot](https://github.com/JhOe1/Creating-a-Hoenypot)
   
