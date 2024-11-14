@@ -25,7 +25,7 @@
 <h2> 📄 Certifications:</h2>
 
 
-  - [CompTIA Security+]
+  - [CompTIA Security+](https://www.credly.com/badges/a94e3425-bfff-4f03-9821-0b61808588df/public_url))
  
    - [Certified in Cybersecurity (CC) by ISC2]
  - [Microsoft Security Compliance and Identity Fundamentals (SC-900) ](https://www.credly.com/badges/970bb0ac-2d14-4c23-978f-595dcfb2b08a/public_url)
