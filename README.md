@@ -3,7 +3,7 @@
 
 
   - [Cybersecurity 30 days project](https://github.com/JhOe1/Cyber-security-30-days-project.git)
-  - [Installing Kali Purple and Elastic SEIM](https://github.com/JhOe1/Phishing-Simulation-Attack-with-GoPhish)
+
 
   - [Wazuh Deployment with File Integrity Monitoring (FIM) Implementation](https://github.com/JhOe1/Wazuh-Deployment-with-File-Integrity-Monitoring-FIM-Implementation))
    
@@ -16,7 +16,9 @@
   - [Wazuh and VirusTotal integration project](https://github.com/JhOe1/Wazuh-and-VirusTotal-integration-project)
 
   - [SOC Automation Project](https://github.com/JhOe1/Suricata-intrusion-detection-project)
- 
+
+  - [Installing Kali Purple and Elastic SEIM](https://github.com/JhOe1/Phishing-Simulation-Attack-with-GoPhish) 
+
   - [Creating a Hoenypot](https://github.com/JhOe1/Creating-a-Hoenypot)
   
   - [Installing OPNsense firewall](https://github.com/JhOe1/Installing-OPNsense-firewall)
