@@ -13,7 +13,7 @@
    
   - [Nessus Tenable Vulnerability Assessment Project](https://github.com/JhOe1/Nessus-Tenable-Vulnerability-Assessment-Project)
 
-  - [Wazuh and VirusTotal integration project](https://github.com/JhOe1/Wazuh-and-VirusTotal-integration-project)
+  - [Detecting and removing malware using VirusTotal integration with Wazuh](https://github.com/JhOe1/Wazuh-and-VirusTotal-integration-project)
 
   - [SOC Automation Project](https://github.com/JhOe1/Suricata-intrusion-detection-project)
 
