@@ -7,7 +7,7 @@
 
   - [Wazuh Deployment with File Integrity Monitoring (FIM) Implementation](https://github.com/JhOe1/Wazuh-Deployment-with-File-Integrity-Monitoring-FIM-Implementation))
    
-  - [Network Traffic Analysis with Wireshark](https://github.com/JhOe1/Network-Traffic-Analysis-with-Wireshark)
+  - [Wireshark Malicious Traffic Analysis Project ](https://github.com/JhOe1/Network-Traffic-Analysis-with-Wireshark)
        
   - [Wazuh Vulnerability Detection Module Implementation](https://github.com/JhOe1/Wazuh-Vulnerability-Detection-Module-Implementation)
    
