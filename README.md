@@ -23,6 +23,7 @@
   
   - [Installing OPNsense firewall](https://github.com/JhOe1/Installing-OPNsense-firewall)
 
+  - [Protecting a Vulnerable Web Application Using OPNsense Firewall on Ubuntu](https://github.com/JhOe1/Installing-OPNsense-firewall)
 
 <h2> 📄 Certifications:</h2>
 
